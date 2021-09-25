@@ -1,4 +1,5 @@
 # PTEMPI
+Implemented MPI parallel program parallelizing the operation between 16 threads on a computer cluster and compared the performance of O(2^n) computation on single laptop with on cluster computers. [C, Message Passing Interface library]
 
 ## constraints
 The power of variable is 2.<br>
